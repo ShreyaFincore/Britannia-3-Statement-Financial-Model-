@@ -21,6 +21,4 @@ DCF valuation
 Excel 
 Financial Modelling Techniques
 
-##Key Output
-Intrinsic Value per share 
-Compared with current market price
+
